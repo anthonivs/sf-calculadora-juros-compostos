@@ -1,0 +1,21 @@
+# ads.txt — Authorized Digital Sellers (IAB Tech Lab)
+#
+# O que é: arquivo público, servido em /ads.txt, que declara QUEM está autorizado
+# a vender inventário de anúncios deste domínio. É uma medida de transparência
+# contra a venda não autorizada de inventário (spoofing).
+#
+# Formato de cada linha:
+#   <domínio do sistema de anúncios>, <publisher id>, <DIRECT|RESELLER>, <certification authority id>
+#
+# ⚠️ PLACEHOLDER — NÃO ATIVO. O site ainda NÃO exibe anúncios.
+# Para ativar o Google AdSense (Google *publicador*), quando o dono autorizar e
+# houver um publisher-id REAL aprovado:
+#   1) cadastre o site no Google AdSense e obtenha o publisher-id (formato pub-################);
+#   2) troque o placeholder abaixo pela linha real e REMOVA os sinais de comentário;
+#   3) confirme que https://anthonivs.github.io/sf-calculadora-juros-compostos//ads.txt responde 200 em texto puro.
+#
+# Linha real esperada (exemplo do formato oficial do Google, NÃO ativar sem id real):
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+#
+# Observação: aqui é Google AdSense (rede de *publicadores* de anúncios).
+# Não confundir com Google Ads, que é a plataforma de *anunciantes* (quem compra anúncios).
