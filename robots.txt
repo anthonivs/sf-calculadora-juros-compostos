@@ -1,6 +1,6 @@
-# ⚠️ PLACEHOLDER DE DOMÍNIO — antes de publicar, troque "https://anthonivs.github.io/sf-calculadora-juros-compostos/"
-# pelo domínio real também em sitemap.xml e no canonical/og:url (src/pages/index.astro).
+# Se usar domínio próprio na publicação, atualize esta linha e as URLs em
+# sitemap.xml, src/pages/index.astro e src/layouts/LegalLayout.astro.
 User-agent: *
 Allow: /
 
-Sitemap: https://anthonivs.github.io/sf-calculadora-juros-compostos//sitemap.xml
+Sitemap: https://anthonivs.github.io/sf-calculadora-juros-compostos/sitemap.xml

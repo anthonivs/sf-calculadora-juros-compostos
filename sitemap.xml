@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- ⚠️ PLACEHOLDER DE DOMÍNIO — troque "https://anthonivs.github.io/sf-calculadora-juros-compostos/" pelo domínio real antes de publicar
-     (mesmo marcador em robots.txt e no canonical/og:url de src/pages/index.astro). -->
+<!-- URLs de staging GitHub Pages (com barra final, como o Astro gera em dist/).
+     Se usar domínio próprio, atualize aqui + robots.txt + SITE_URL nos .astro. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://anthonivs.github.io/sf-calculadora-juros-compostos//</loc>
+    <loc>https://anthonivs.github.io/sf-calculadora-juros-compostos/</loc>
     <lastmod>2026-10-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://anthonivs.github.io/sf-calculadora-juros-compostos//sobre</loc>
+    <loc>https://anthonivs.github.io/sf-calculadora-juros-compostos/sobre/</loc>
     <lastmod>2026-10-10</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://anthonivs.github.io/sf-calculadora-juros-compostos//privacidade</loc>
+    <loc>https://anthonivs.github.io/sf-calculadora-juros-compostos/privacidade/</loc>
     <lastmod>2026-10-10</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://anthonivs.github.io/sf-calculadora-juros-compostos//termos</loc>
+    <loc>https://anthonivs.github.io/sf-calculadora-juros-compostos/termos/</loc>
     <lastmod>2026-10-10</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>

@@ -12,7 +12,7 @@
 # houver um publisher-id REAL aprovado:
 #   1) cadastre o site no Google AdSense e obtenha o publisher-id (formato pub-################);
 #   2) troque o placeholder abaixo pela linha real e REMOVA os sinais de comentário;
-#   3) confirme que https://anthonivs.github.io/sf-calculadora-juros-compostos//ads.txt responde 200 em texto puro.
+#   3) confirme que https://anthonivs.github.io/sf-calculadora-juros-compostos/ads.txt responde 200 em texto puro.
 #
 # Linha real esperada (exemplo do formato oficial do Google, NÃO ativar sem id real):
 # google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
